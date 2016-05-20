@@ -30,3 +30,30 @@ layout3
 8- For practice add another element to the left of the sidebar. It should have its own id (`#sideLinkToTop)
 
 layout3
+
+#Developer Tools
+
+Challenge: Developer Tools
+
+Open up Developer Tools in Chrome.
+Using your new toolbox select HTML elements and alter their CSS rules in the browser.
+Try refreshing the page (shortcut F5)
+
+css
+
+You can also add new CSS rules !!
+
+Try and replicate the following:
+
+red
+_Change Background Color _
+
+alignment
+_Change text alignment _
+
+text-color
+_Add a color property to change the font color. _
+
+See what else you can do!!
+Remember none of your changes are saved when using Chrome Developer tools.
+Go to a website you use often (maybe wikipedia) open Developer Tools and change the layout as you see fit
